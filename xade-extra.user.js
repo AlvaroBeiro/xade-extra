@@ -4,6 +4,8 @@
 // @description  Utilidades añadidas al programa Xade de la xunta
 // @author       Alvaro Beiro
 // @license      GPL-3.0-or-later
+// @updateURL    https://raw.githubusercontent.com/AlvaroBeiro/xade-extra/main/xade-extra.user.js
+// @downloadURL  https://raw.githubusercontent.com/AlvaroBeiro/xade-extra/main/xade-extra.user.js
 // @match        *://*.xunta.gal/xade*
 // @run-at       document-end
 // ==/UserScript==
