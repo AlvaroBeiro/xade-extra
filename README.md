@@ -13,6 +13,6 @@ Funciones disponibles actualmente:
 
 2. Haz clic en el siguiente botón:
 
-[![Instalar Userscript](https://img.shields.io/badge/Instalar-Userscript-brightgreen)](https://raw.githubusercontent.com/AlvaroBeiro/xade-extra/main/xade-beautifier.user.js)
+[![Instalar Userscript](https://img.shields.io/badge/Instalar-Userscript-brightgreen)](https://raw.githubusercontent.com/AlvaroBeiro/xade-extra/main/xade-extra.user.js)
 
 3. Acepta la instalación en el navegador.
